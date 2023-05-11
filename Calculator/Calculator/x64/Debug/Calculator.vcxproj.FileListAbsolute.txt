@@ -1,0 +1,4 @@
+C:\Users\o\Desktop\info\Sem 2\POO\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\o\Desktop\info\Sem 2\POO\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\o\Desktop\info\Sem 2\POO\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\o\Desktop\info\Sem 2\POO\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
