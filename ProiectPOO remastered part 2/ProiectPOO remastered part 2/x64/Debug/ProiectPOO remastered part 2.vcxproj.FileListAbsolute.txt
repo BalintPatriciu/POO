@@ -1,0 +1,2 @@
+C:\Users\o\source\repos\ProiectPOO remastered part 2\ProiectPOO remastered part 2\x64\Debug\ProiectPOO remastered part 2.vcxproj.AssemblyReference.cache
+C:\Users\o\source\repos\ProiectPOO remastered part 2\ProiectPOO remastered part 2\x64\Debug\ProiectPOO remastered part 2.vcxproj.SuggestedBindingRedirects.cache
